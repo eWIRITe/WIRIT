@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eWIRITe
 - 👀 I’m interested in C++, python, Unity, HTML, CSS, JavaScript, Games
-- 🌱 I’m currently learning Cooding Games
+- 🌱 I’m currently learning Coding Games
 - 💞️ I’m looking to collaborate with good guys, im always soooo boring and i very whant meet to interesting people.
 - 📫 How to reach me 6wirit6@gmail.com
 
